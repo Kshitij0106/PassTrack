@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PassTrack</string>
+    <string name="app_description">You should allow PassTrack to lock the screen!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="admin_mode1">This mode is Enabled for further Security to protect your Passwords from being seen by an Unauthorised person.</string>
+    <string name="admin_mode2">This mode prevent an attacker from attempting many tries to break your password.</string>
+    <string name="admin_mode3">This feature will lock your screen after 5 failed attempts at your password</string>
+</resources>
